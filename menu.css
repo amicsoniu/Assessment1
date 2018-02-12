@@ -1,0 +1,28 @@
+.buttons {
+    position:relative;
+    width:100%;
+}
+
+#menu {
+    position:fixed;
+    left:-110px;
+    top:50px;
+    width:100px;
+    padding:5px;
+    background-color:cornflowerblue;
+}
+
+
+#Open {
+    position:absolute;
+    width:50px;
+    right:-50px;
+    top:0px;
+}
+
+#Close {
+    position:absolute;
+    width:50px;
+    right:-50px;
+    bottom:0px;
+}
